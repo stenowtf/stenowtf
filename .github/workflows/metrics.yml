@@ -19,5 +19,3 @@ jobs:
           template: classic
           base: header, activity
           config_timezone: Europe/Rome
-          plugin_calendar: yes
-          plugin_calendar_limit: 0
