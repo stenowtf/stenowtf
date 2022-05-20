@@ -16,8 +16,8 @@ jobs:
 
           # Options
           user: stenowtf
-	  template: classic
-	  base: header, activity
-	  config_timezone: Europe/Rome
+          template: classic
+          base: header, activity
+          config_timezone: Europe/Rome
           plugin_calendar: yes
           plugin_calendar_limit: 0
